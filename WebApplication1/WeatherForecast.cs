@@ -1,4 +1,4 @@
-namespace GitpractiveAPP
+namespace WebApplication1
 {
     public class WeatherForecast
     {
